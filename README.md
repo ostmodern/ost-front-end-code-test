@@ -35,7 +35,6 @@ npm run coverage
 
 - If your solution is responsive
 - If your solution handles API errors (like timeouts or 500s)
-- If your solution needs state management e.g. Redux
 - Unit testing
 
 ### Submission 
