@@ -5,7 +5,7 @@ test-reports/
 
 # Front End App Packages
 node_modules/
-npm-debug.log.*
+npm-debug.log
 
 # Compiled Development Assets
 bundle.js
