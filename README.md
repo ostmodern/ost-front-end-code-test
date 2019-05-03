@@ -10,7 +10,7 @@ You are welcome to customize the boilerplate by installing any dependencies you 
 
 The boilerplate works with [npm](https://docs.npmjs.com/). [Webpack](https://webpack.js.org/) is set up with a dev server. Also configured is a test suite using [Jest](https://facebook.github.io/jest/) and [Enzyme](https://github.com/airbnb/enzyme) for you to unit test your code.
 
-- Get the boilerplate from this repo `https://github.com/ostmodern/ost-front-end-test` and copy the files into your newly created version controlled repo (preferably GitHub).
+- Get the boilerplate from this repo `https://github.com/ostmodern/ost-front-end-code-test` and copy the files into your newly created version controlled repo (preferably GitHub).
 - The following commands can be used to get the site running:
 
 ```shell
